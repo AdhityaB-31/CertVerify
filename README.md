@@ -260,18 +260,6 @@ cd ~/cert-verify/frontend && npm start
 
 ---
 
-## 🧪 Quick Demo (without Pinata)
-
-Issue a test certificate using this data:
-- **Student Name:** Adhitya B
-- **Reg No:** 22TH0204
-- **Degree:** B.Tech Information Technology
-- **Year:** 2024
-
-Then verify using Certificate ID: `MVIT-2024-22TH0204`
-
----
-
 ## 🛠 Troubleshooting
 
 | Problem | Fix |
